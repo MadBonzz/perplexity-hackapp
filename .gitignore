@@ -1,0 +1,7 @@
+*.csv
+*.pdf
+*.html
+*.txt
+/perplexity/
+/extracted/
+/question-papers/
