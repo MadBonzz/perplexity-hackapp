@@ -2,7 +2,5 @@
 *.pdf
 *.html
 *.txt
-*.md
 /perplexity/
-/extracted/
 /question-papers/
